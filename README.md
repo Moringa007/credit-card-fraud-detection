@@ -11,7 +11,7 @@ This project implements a credit card fraud detection system using various machi
 - **Model Persistence:** Automatically saves the best-performing model (based on F1 score and Recall) for later use.
 
 ## 📁 Project Structure
-
+```
 credit-card-fraud-detection/
 ├── data/
 │   ├── fraud_subset_1.csv         # Training data
@@ -22,7 +22,7 @@ credit-card-fraud-detection/
 ├── requirements.txt
 ├── train.py
 ├── demo.py
-
+```
 ## 📋 Getting Started
 
 ### Prerequisites
