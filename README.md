@@ -52,7 +52,7 @@ credit-card-fraud-detection/
 
 ### Data
 
-Download the `fraud_subset_1.csv` (for training) and `fraudTest_subset_1.csv` (for testing) files and place them in the `data/` directory.
+Download the `fraudTrain.csv` (for training) and `fraudTest.csv` (for testing) files and place them in the `data/` directory.
 
 ## 🏃 Running the Project
 
